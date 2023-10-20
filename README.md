@@ -15,8 +15,7 @@
 * **Use Cases**: We provide examples and use cases to illustrate how the data structure can be applied in real-world scenarios. These use cases help developers understand the practical utility of the structure.
 ---
 
-######  I chose  **JavaScript** as the primary language for this project due to its versatility and wide adoption in web development. 
-🇯🇸
+######  I chose  **JavaScript** as the primary language for this project due to its versatility and wide adoption in web development. 🇯🇸
 ---
 ### How to get Started ✅
 To get started with this project, please follow these steps:
