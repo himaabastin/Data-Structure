@@ -1,5 +1,5 @@
 // 2nd Method
-
+// Big O of 1 (constant)
 const addUpToN2=(n)=>{
 return n * (n + 1) /2
 }

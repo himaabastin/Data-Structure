@@ -1,4 +1,5 @@
 //1st Method
+// Big O of n (linear)
 const addUptoN = (num) => {
   let total = 0;
   for (i = 0; i <= num; i++) {
