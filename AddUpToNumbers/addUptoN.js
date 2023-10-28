@@ -12,4 +12,4 @@ console.log(addUptoN(1000000000));
 const endTime = new Date();
 
 const timeDiff = (endTime - startTime) / 1000;
-console.log(`Time diff = ${timeDiff} s`); //almost 1.2s
+console.log(`Time diff = ${timeDiff} s`); //almost 1.2 s
