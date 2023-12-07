@@ -20,8 +20,7 @@
 ### How to get Started ✅
 To get started with this project, please follow these steps:
 1) Clone this repository to your local machine.
-2) Navigate to the project directory and run ***npm install*** to install dependencies.
-3) Use the provided examples and documentation to explore and implement data structures in JavaScript.
+2) Use the provided examples and documentation to explore and implement data structures in JavaScript.
 
 
 
