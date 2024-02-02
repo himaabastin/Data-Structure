@@ -18,7 +18,6 @@ const same = (arr1, arr2) => {
     arr2.splice(correctIndex, 1);
     // console.log("arr2", arr2);
   }
-
   return console.log(true);
 };
 
