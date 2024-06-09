@@ -3,6 +3,7 @@
 // sumZero([-3,-2,-1,0,2,3]) :[-3,3]
 
 const sumZero = (arr) => {
+console.log(arr.length);
   let left = 0;
   let right = arr.length - 1;
 
